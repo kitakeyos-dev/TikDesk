@@ -1,0 +1,19 @@
+Copyright (c) 2026 Hoàng Hữu Dũng. All rights reserved.
+
+TikDesk, gồm mã nguồn, bộ cài đặt và mọi tệp đi kèm ("Phần mềm"), thuộc quyền sở hữu
+của tác giả.
+
+Bạn được tải và cài Phần mềm từ trang phát hành chính thức
+(https://github.com/kitakeyos-dev/TikDesk/releases) để sử dụng cho buổi LIVE của mình.
+Các tính năng trả phí chỉ được dùng trên máy đã được mở khóa.
+
+Nếu không có sự cho phép bằng văn bản của tác giả, bạn không được:
+  - sao chép, phân phối lại, bán hoặc cho thuê Phần mềm;
+  - sửa đổi, dịch ngược, giải mã hoặc tìm cách vượt qua cơ chế mở khóa tính năng;
+  - dùng mã nguồn hoặc một phần của nó trong sản phẩm khác.
+
+PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG KÈM BẤT KỲ BẢO ĐẢM NÀO. TÁC GIẢ KHÔNG
+CHỊU TRÁCH NHIỆM VỚI BẤT KỲ THIỆT HẠI NÀO PHÁT SINH TỪ VIỆC SỬ DỤNG PHẦN MỀM.
+
+Phiên bản 0.2.5 trở về trước từng được công bố theo giấy phép MIT; các bản đó vẫn
+giữ giấy phép MIT. Giấy phép này áp dụng cho mọi phiên bản phát hành sau đó.
